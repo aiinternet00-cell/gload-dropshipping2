@@ -1,0 +1,11 @@
+/* Keep the Shopify checkout control aligned with the Walk Companion purchase flow. */
+.shopify-buy-button {
+  width: 100%;
+  margin-top: 15px;
+}
+
+.shopify-buy-button iframe {
+  display: block;
+  width: 100% !important;
+  max-width: 100% !important;
+}
