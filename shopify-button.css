@@ -11,10 +11,6 @@
   width: 100%;
 }
 
-.shopify-buy-button {
-  margin-top: 15px;
-}
-
 .shopify-buy-button iframe {
   display: block;
   width: 100% !important;
