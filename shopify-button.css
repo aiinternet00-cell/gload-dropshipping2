@@ -1,6 +1,17 @@
 /* Keep the Shopify checkout control aligned with the Walk Companion purchase flow. */
+.purchase-actions {
+  display: flex;
+  flex: 1;
+  min-width: 0;
+  flex-direction: column;
+}
+
+.purchase-actions .button,
 .shopify-buy-button {
   width: 100%;
+}
+
+.shopify-buy-button {
   margin-top: 15px;
 }
 
