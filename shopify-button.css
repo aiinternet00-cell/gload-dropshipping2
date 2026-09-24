@@ -6,13 +6,10 @@
   flex-direction: column;
 }
 
-.purchase-actions .button,
-.shopify-buy-button {
+.purchase-actions .button {
   width: 100%;
 }
 
 .shopify-buy-button iframe {
   display: block;
-  width: 100% !important;
-  max-width: 100% !important;
 }
