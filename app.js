@@ -19,8 +19,8 @@ const storeConfig = {
       variants: ['Sage'],
       // Replace these with: /images/dog-product-1.jpg, dog-product-2.jpg, dog-product-3.jpg
       images: [
-        'https://images.unsplash.com/photo-1601758123927-196b9d93eacd?auto=format&fit=crop&w=1000&q=80',
-        'https://images.unsplash.com/photo-1544568100-847a948585b9?auto=format&fit=crop&w=700&q=80',
+        'https://images.unsplash.com/photo-1558788353-f76d92427f16?auto=format&fit=crop&w=1000&q=82',
+        'https://images.unsplash.com/photo-1537151608828-ea2b11777ee8?auto=format&fit=crop&w=700&q=80',
         'https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?auto=format&fit=crop&w=700&q=80'
       ]
     },
