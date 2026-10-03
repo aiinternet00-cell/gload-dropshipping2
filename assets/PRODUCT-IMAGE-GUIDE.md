@@ -11,4 +11,4 @@ When final photography is available, place these files in this directory and rep
 - `cat-product-2.jpg`
 - `cat-product-3.jpg`
 
-Use the paths `./assets/dog-product-1.jpg` and so on. The gallery, cart and checkout will update automatically.
+Use the paths `./assets/dog-product-1.jpg` and so on. The product gallery will update automatically.
